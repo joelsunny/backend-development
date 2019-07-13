@@ -1,0 +1,17 @@
+{
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "description": "mongo db nodejs tutorial",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo-db"
+  ],
+  "author": "joelsunny",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
